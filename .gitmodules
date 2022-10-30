@@ -1,0 +1,3 @@
+[submodule "mr-patch-data-protocol"]
+	path = mr-patch-data-protocol
+	url = https://github.com/TeamMushroom/mr-patch-data-protocol.git
